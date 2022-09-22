@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlejandroPerezS
+- 👋 Hi, I’m @Alejandro Perez Sanabria
 - 👀 I’m interested in:
 Programming
 Gaming

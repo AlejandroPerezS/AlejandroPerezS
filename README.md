@@ -5,8 +5,8 @@ Gaming
 Hiking
 Fishing
 Well those are the stuff im most interested about
-I’m currentrly enrolled in Durham College and im taking the course Computer Programming and Analyst
-You can reach me on my email Alejandro.perezsanabria@dcmial.ca
+I’m currentrly enrolled in Durham College and im taking the course Computer Programming
+You can reach me on my email Alejandro.perezsanabria@dcmail.ca
 
 <!---
 AlejandroPerezS/AlejandroPerezS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

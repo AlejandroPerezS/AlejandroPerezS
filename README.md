@@ -3,8 +3,7 @@
 Programming
 Gaming
 Hiking
-Fishing
-Well those are the stuff im most interested about
+and fishing
 I’m currentrly enrolled in Durham College and im taking the course Computer Programming
 You can reach me on my email Alejandro.perezsanabria@dcmail.ca
 
